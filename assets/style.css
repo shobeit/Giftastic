@@ -1,5 +1,7 @@
 body {
-    background-image: url("../images/background4.jpg");
+    background-image: url("./images/background4.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
     font-family:'Righteous', cursive;
     color: white;
 }
@@ -17,12 +19,12 @@ body {
 h2 {
     letter-spacing: 5px;
     text-align: center;
-    color:whitesmoke;
+    color:black
 }
 
 h6 {
     font-style: italic;
-    color: rgb(240, 255, 244);
+    color:black
 }
 
 .topic {
